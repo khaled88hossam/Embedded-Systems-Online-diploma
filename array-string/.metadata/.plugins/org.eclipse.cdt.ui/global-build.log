@@ -1,0 +1,1480 @@
+١٤:٣٢:٢٧ **** Rebuild of configuration Debug for project Ex-4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Ex-4.exe main.o 
+١٤:٣٢:٢٧ **** Rebuild of configuration Debug for project quiz1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o quiz1.exe main.o 
+Info: Nothing to build for quiz1
+Info: Nothing to build for Ex-4
+١٤:٣٩:٥٦ **** Incremental Build of configuration Debug for project quiz1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:8:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:10:15: warning: initializer-string for array of chars is too long
+  char arr[11]="The African Queen";
+               ^~~~~~~~~~~~~~~~~~~
+gcc -o quiz1.exe main.o 
+Info: Nothing to build for quiz1
+٢٢:٢٨:٤٢ **** Rebuild of configuration Debug for project EX-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-1.exe main.o 
+٢٢:٢٨:٤٣ **** Rebuild of configuration Debug for project Ex-4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Ex-4.exe main.o 
+Info: Nothing to build for EX-1
+٢٢:٣١:٠٠ **** Incremental Build of configuration Debug for project EX-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-1.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-1
+Info: Nothing to build for Ex-4
+٢٢:٣١:٣٨ **** Incremental Build of configuration Debug for project EX-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-1.exe main.o 
+Info: Nothing to build for EX-1
+٢٢:٣٢:٣٩ **** Rebuild of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-2.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-1
+٢٢:٣٣:٤٥ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-2.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+٢٢:٣٣:٤٨ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -o EX-2.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+٢٢:٣٣:٥٢ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -o EX-2.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX-1
+٢٢:٣٦:١٨ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -o EX-2.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+٢٢:٣٦:١٨ **** Rebuild of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-3.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-1
+٢٢:٣٧:٠٨ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -o EX-2.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+٢٢:٣٧:٠٨ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-3.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-1
+٢٢:٥٠:٤٤ **** Incremental Build of configuration Debug for project EX-2 ****
+Info: Internal Builder is used for build
+gcc -o EX-2.exe main.o 
+٢٢:٥٠:٤٤ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-3.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+٢٢:٥٣:٠٨ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-3.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+٢٣:١٤:٣٨ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -o EX-3.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+٢٣:١٤:٣٨ **** Incremental Build of configuration Debug for project Ex-4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Ex-4.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+٢٣:١٥:٢٠ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -o EX-3.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX-3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+١٣:٥١:٣٥ **** Incremental Build of configuration Debug for project EX-3 ****
+Info: Internal Builder is used for build
+gcc -o EX-3.exe main.o 
+١٣:٥١:٣٦ **** Incremental Build of configuration Debug for project Ex-4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Ex-4.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+١٤:٢٨:٠١ **** Rebuild of configuration Debug for project EX-5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-5.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+١٤:٢٨:٤٣ **** Incremental Build of configuration Debug for project EX-5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-5.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٣١:٥٨ **** Rebuild of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٣١:٥٨ **** Rebuild of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٣٢:٣٠ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٣٢:٣٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٣٧:٠٧ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٣٧:٠٧ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٣٧:٢٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٣٧:٣٥ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٣٧:٣٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٤٥:٥٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٤٥:٥٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:12: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   printf("%d,no");
+            ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٤٦:٢٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٤٦:٢٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:12: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   printf("%d\n,no");
+            ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for kk
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٤٦:٣٨ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+Info: Nothing to build for kk
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٥٤:٤٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٥٤:٤٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٥٨:١٧ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٥:٥٨:١٨ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:12: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[25]' [-Wformat=]
+   printf("%s\n",&str+2);
+            ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٦:٠٠:١٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٦:٠٠:١٤ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:11:20: warning: missing braces around initializer [-Wmissing-braces]
+ char data[2][3][2]={0,1,2,3,4,5,6,7,8,9,10,11};
+                    ^
+..\main.c:11:20: note: (near initialization for 'data')
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٦:٠٥:٢٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٦:٠٥:٢٩ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٦:١٤:٠٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٦:١٤:١٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:11:6: warning: unused variable 'i' [-Wunused-variable]
+  int i;
+      ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٦:٢١:٥٥ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٦:٢١:٥٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٦:٢٦:٣٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -o EX-6.exe main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex-4
+١٦:٢٦:٣٩ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٩:١٧:١٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٩:١٧:١٤ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+١٩:١٧:٢٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٩:٢٣:٣١ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٩:٢٣:٣١ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:13:8: warning: too many arguments for format [-Wformat-extra-args]
+ printf("India","BIX\n");
+        ^~~~~~~
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٩:٣٦:١٣ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٩:٣٦:١٣ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:14:20: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+    for(a=0,b=0;a<10,b<5;a++,b++)
+                    ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٩:٥٢:٠٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٩:٥٢:٠٩ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:13: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+      while(5,4,3,2,1,0);
+             ^
+..\main.c:16:15: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+      while(5,4,3,2,1,0);
+               ^
+..\main.c:16:17: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+      while(5,4,3,2,1,0);
+                 ^
+..\main.c:16:19: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+      while(5,4,3,2,1,0);
+                   ^
+..\main.c:16:21: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+      while(5,4,3,2,1,0);
+                     ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢٠:٠٠:١٦ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢٠:٠٠:١٦ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:10:1: error: parameter 'x' is initialized
+ int x=1;
+ ^~~
+..\main.c:11:1: error: expected declaration specifiers before 'if'
+ if(x--)
+ ^~
+..\main.c:13:6: error: expected declaration specifiers before '--' token
+      --x;
+      ^~
+..\main.c:14:6: error: expected declaration specifiers before 'else'
+      else
+      ^~~~
+..\main.c:17:1: error: expected declaration specifiers before '}' token
+ }
+ ^
+..\main.c:10:5: error: declaration for parameter 'x' but no such parameter
+ int x=1;
+     ^
+..\main.c:17:1: error: expected '{' at end of input
+ }
+ ^
+٢٠:٠٠:١٨ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:10:1: error: parameter 'x' is initialized
+ int x=1;
+ ^~~
+..\main.c:11:1: error: expected declaration specifiers before 'if'
+ if(x--)
+ ^~
+..\main.c:13:6: error: expected declaration specifiers before '--' token
+      --x;
+      ^~
+..\main.c:14:6: error: expected declaration specifiers before 'else'
+      else
+      ^~~~
+..\main.c:17:1: error: expected declaration specifiers before '}' token
+ }
+ ^
+..\main.c:10:5: error: declaration for parameter 'x' but no such parameter
+ int x=1;
+     ^
+..\main.c:17:1: error: expected '{' at end of input
+ }
+ ^
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢٠:٠٠:٥٧ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢٠:٠٠:٥٧ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:15:6: error: 'else' without a previous 'if'
+      else
+      ^~~~
+..\main.c:16:16: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+       printf("%d,x");
+                ^
+٢٠:٠٠:٥٩ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:15:6: error: 'else' without a previous 'if'
+      else
+      ^~~~
+..\main.c:16:16: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+       printf("%d,x");
+                ^
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢٠:٠٢:١٧ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢٠:٠٢:١٧ **** Rebuild of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:15:6: error: 'else' without a previous 'if'
+      else
+      ^~~~
+..\main.c:16:16: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+       printf("%d,x");
+                ^
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢٠:٢٢:٣٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢٠:٢٢:٣٤ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:11:17: warning: unknown escape sequence: '\B'
+      char str[]="India\0\BIX\0";
+                 ^~~~~~~~~~~~~~~
+gcc -o kkk.exe main.o 
+Info: Nothing to build for kkk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢١:١٧:٠٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢١:١٧:٠٥ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:11:18: warning: missing braces around initializer [-Wmissing-braces]
+      int a[3][4]={1,2,3,4,4,3,2,1,7,8,9,10};
+                  ^
+..\main.c:11:18: note: (near initialization for 'a')
+..\main.c:12:15: warning: format '%u' expects argument of type 'unsigned int', but argument 2 has type 'int (*)[4]' [-Wformat=]
+      printf("%u,%u\n",a+1,&a+1);
+               ^
+..\main.c:12:18: warning: format '%u' expects argument of type 'unsigned int', but argument 3 has type 'int (*)[3][4]' [-Wformat=]
+      printf("%u,%u\n",a+1,&a+1);
+                  ^
+gcc -o kkk.exe main.o 
+Info: Nothing to build for kkk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢١:٣٦:١٧ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢١:٣٦:١٨ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+٢١:٣٦:٢١ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢١:٣٧:٢٤ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢١:٣٧:٢٤ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+٢١:٣٧:٣٣ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+٢١:٣٨:٠٨ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+٢١:٣٨:٠٨ **** Rebuild of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:13:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:13:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:13:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:13:21: error: expected statement before ')' token
+٢١:٣٨:٠٨ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+٢١:٣٨:١٢ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:13:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:13:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:13:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:13:21: error: expected statement before ')' token
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٤٣:٤٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٤٣:٥٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:16: warning: unknown conversion type character 'D' in format [-Wformat=]
+       printf("%D",i);
+                ^
+..\main.c:14:14: warning: too many arguments for format [-Wformat-extra-args]
+       printf("%D",i);
+              ^~~~
+gcc -o kk.exe main.o 
+١٤:٤٣:٥١ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٤٤:١١ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٤٤:١١ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o kk.exe main.o 
+١٤:٤٤:١١ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٤٩:٢٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٤٩:٣٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:14: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+       printf(i);
+              ^
+In file included from ..\main.c:8:0:
+c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is of type 'unsigned char'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+..\main.c:12:10: warning: unused variable 'i' [-Wunused-variable]
+      int i=2;
+          ^
+gcc -o kk.exe main.o 
+١٤:٤٩:٣٠ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٠:٠٨ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٠:٠٨ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+١٤:٥٠:٠٩ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٠:٢٦ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٠:٢٦ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:14: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+       printf(i);
+              ^
+In file included from ..\main.c:8:0:
+c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is of type 'unsigned char'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+..\main.c:12:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+١٤:٥٠:٢٧ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٠:٥٢ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٠:٥٢ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+١٤:٥٠:٥٢ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٢:١٥ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٢:١٥ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+١٤:٥٢:١٦ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٦:٠٠ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٦:٠٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+١٤:٥٦:٠٠ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٤:٥٧:٣٨ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٤:٥٧:٣٨ **** Rebuild of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:11:11: warning: unused variable 'i' [-Wunused-variable]
+      char i=2;
+           ^
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٠٢:٠٩ **** Incremental Build of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:10: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s",&string);
+          ^
+..\main.c:19:11: error: expected expression before ')' token
+   for(i=0;)
+           ^
+..\main.c:21:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:11:21: warning: variable 'i' set but not used [-Wunused-but-set-variable]
+  char string[100],a,i;
+                     ^
+Info: Nothing to build for Ex-4
+١٥:٠٢:١٠ **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:20: warning: zero-length ms_printf format string [-Wformat-zero-length]
+      if(ch==printf(""))
+                    ^~
+..\main.c:12:11: warning: 'ch' is used uninitialized in this function [-Wuninitialized]
+      if(ch==printf(""))
+         ~~^~~~~~~~~~~~
+gcc -o kk.exe main.o 
+Info: Nothing to build for kk
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+١٥:٢٥:١٨ **** Rebuild of configuration Debug for project EX-6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-6.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-6
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٣٥:٥٣ **** Rebuild of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٣٧:٠٣ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٣٨:٠٠ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٣٨:٢١ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٣٩:٢٠ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٤٠:٤٧ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:15:17: warning: array subscript has type 'char' [-Wchar-subscripts]
+   for(i=0;string[i]!='\0';i++)
+                 ^
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+Info: Nothing to build for EX-1
+Info: Nothing to build for EX-2
+Info: Nothing to build for EX-3
+Info: Nothing to build for EX-5
+Info: Nothing to build for EX-6
+١٥:٤٢:١١ **** Rebuild of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for Ex-4
+Info: Nothing to build for EX-7
+١٥:٤٦:٠٣ **** Incremental Build of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:3: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+   for(i=0;string[i]!='\0';i++);
+   ^~~
+..\main.c:18:4: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'for'
+    printf("length of string=%d",i);
+    ^~~~~~
+gcc -o EX-7.exe main.o 
+Info: Nothing to build for EX-7
+١٧:٠٣:٢٧ **** Rebuild of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:3: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+   for(i=0;string[i]!='\0';i++);
+   ^~~
+..\main.c:18:4: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'for'
+    printf("length of string=%d",i);
+    ^~~~~~
+gcc -o EX-7.exe main.o 
+١٧:٠٣:٢٧ **** Rebuild of configuration Debug for project EX-8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:7: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+     j=strlen(str)-1;
+       ^~~~~~
+..\main.c:16:7: warning: incompatible implicit declaration of built-in function 'strlen'
+..\main.c:16:7: note: include '<string.h>' or provide a declaration of 'strlen'
+gcc -o EX-8.exe main.o 
+Info: Nothing to build for EX-8

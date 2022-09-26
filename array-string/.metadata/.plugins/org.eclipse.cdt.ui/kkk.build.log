@@ -1,0 +1,17 @@
+١٤:٥٦:٠٠ **** Incremental Build of configuration Debug for project kkk ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:12:8: error: expected ',' or ';' before 'for'
+        for(;i<=5;i++);
+        ^~~
+..\main.c:12:14: warning: statement with no effect [-Wunused-value]
+        for(;i<=5;i++);
+             ~^~~
+..\main.c:12:21: error: expected ';' before ')' token
+        for(;i<=5;i++);
+                     ^
+..\main.c:12:21: error: expected statement before ')' token
+
+١٤:٥٦:٠١ Build Failed. 3 errors, 1 warnings. (took 151ms)
+

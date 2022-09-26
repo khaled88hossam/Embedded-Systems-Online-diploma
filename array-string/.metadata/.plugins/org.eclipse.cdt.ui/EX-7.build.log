@@ -1,0 +1,14 @@
+١٧:٠٣:٢٧ **** Rebuild of configuration Debug for project EX-7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:16:3: warning: this 'for' clause does not guard... [-Wmisleading-indentation]
+   for(i=0;string[i]!='\0';i++);
+   ^~~
+..\main.c:18:4: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'for'
+    printf("length of string=%d",i);
+    ^~~~~~
+gcc -o EX-7.exe main.o 
+
+١٧:٠٣:٢٧ Build Finished. 0 errors, 1 warnings. (took 416ms)
+

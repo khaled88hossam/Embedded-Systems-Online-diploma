@@ -1,0 +1,39 @@
+/*
+ * main.c
+ *
+ *  Created on: ٢٤‏/٠٩‏/٢٠٢٢
+ *      Author: Khaled
+ */
+#include <stdio.h>
+int main()
+{
+	float matrix[100];
+	int n;
+	int i;
+	float sum = 0;
+	float avg;
+
+	printf("Enter the Number of Elements in the Array: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%d", &n);
+
+	for (i=0; i<n; i++)
+	{
+		printf("Enter Element Num. %d: ", i+1);
+		fflush(stdin); fflush(stdout);
+		scanf("%f", &matrix[i]);
+	}
+
+    printf("\r\n");
+
+	for (i=0; i<n; i++)
+	{
+		sum = sum + matrix[i];
+	}
+	printf("The Sum = %0.2f\r\n", sum);
+	avg = sum / n ;
+	printf("The Average = %0.2f\r\n", avg);
+	return 0;
+}
+
+
